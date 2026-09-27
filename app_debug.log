@@ -1,0 +1,19 @@
+2026-09-27 21:42:14,628 - INFO - Application started
+2026-09-27 21:42:15,033 - INFO - Connected to MongoDB successfully.
+2026-09-27 21:42:22,097 - INFO - User admin logged in successfully
+2026-09-27 21:51:58,677 - INFO - Application started
+2026-09-27 21:51:59,024 - INFO - Connected to MongoDB successfully.
+2026-09-27 21:52:06,146 - INFO - User admin logged in successfully
+2026-09-27 22:08:56,406 - INFO - Application started
+2026-09-27 22:08:56,797 - INFO - Connected to MongoDB successfully.
+2026-09-27 22:08:56,877 - INFO - The Login View has been initialized
+2026-09-27 22:09:08,457 - INFO - User admin logged in successfully
+2026-09-27 22:11:21,334 - INFO - Application started
+2026-09-27 22:11:21,636 - INFO - Connected to MongoDB successfully.
+2026-09-27 22:11:21,717 - INFO - The Login View has been initialized
+2026-09-27 22:11:28,054 - INFO - User admin logged in successfully
+2026-09-27 22:12:53,126 - INFO - Application started
+2026-09-27 22:12:53,363 - INFO - Connected to MongoDB successfully.
+2026-09-27 22:12:53,441 - INFO - The Login View has been initialized
+2026-09-27 22:12:59,258 - INFO - User admin logged in successfully
+2026-09-27 22:13:22,151 - INFO - Bill sent to Printer!
